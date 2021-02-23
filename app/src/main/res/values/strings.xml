@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoronaInfo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Custom Strings -->
+    <string name="heading">CoronaInfo</string>
+    <string name="newCasesDE">Neue Fälle in DE (24h)</string>
+    <string name="loading">Lädt…</string>
+    <string name="incidenceBerlin">Inzidenz Berlin</string>
+    <string name="incidenceGermany">Inzidenz DE</string>
+</resources>
